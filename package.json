@@ -1,0 +1,11 @@
+{
+  "name": "arora-npm-ts",
+  "version": "0.1.0",
+  "description": "wow",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "andrey31453@gmail.com",
+  "license": "ISC"
+}
