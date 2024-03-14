@@ -1,6 +1,6 @@
 {
 	"name": "arora-npm-ts",
-	"version": "0.3.5",
+	"version": "0.3.6",
 	"description": "wow",
 	"main": "src/index.ts",
 	"repository": "https://github.com/andrey31453/arora-npm-ts.git",
