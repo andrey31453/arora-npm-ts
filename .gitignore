@@ -1,0 +1,42 @@
+# не переписывать
+# данный файл сгенерирован автоматически
+
+package-lock.json
+node_modules
+
+# mac
+/**/*.DS_Store
+
+# compiled output
+/**/dist
+
+# logs
+logs
+*.log
+npm-debug.log*
+pnpm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+
+# ide-s
+/.idea
+.project
+.classpath
+.c9/
+*.launch
+*.sublime-workspace
+/.vscode
+
+# generate
+./src/.bd
+.eslintrc
+.prettierignore
+.prettierrc.json
+major.sh
+minor.sh
+patch.sh
+tsconfig.json
+package.json
+tsconfig.json
+package.json
