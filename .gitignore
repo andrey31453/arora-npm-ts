@@ -29,7 +29,7 @@ lerna-debug.log*
 /.vscode
 
 # generate
-./src/.bd
+src/.bd
 .eslintrc
 .prettierignore
 .prettierrc.json
@@ -37,4 +37,5 @@ major.sh
 minor.sh
 patch.sh
 tsconfig.json
+.version
 tsconfig.json

@@ -1,7 +1,7 @@
 <!-- не переписывать -->
 <!-- данный файл сгенерирован автоматически -->
 
-## microfrontend DON'T HAVE NAME
+## microfrontend arora-npm-ts
 
 ## git
 
