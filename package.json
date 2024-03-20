@@ -3,7 +3,7 @@
     "prettier": "^3.2.5"
   },
   "name": "arora-npm-ts",
-  "version": "0.4.0",
+  "version": "0.3.10",
   "main": "src/index.ts",
   "repository": "https://github.com/andrey31453/arora-npm-ts.git",
   "description": "awesome repository",
